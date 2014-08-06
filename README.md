@@ -7,11 +7,12 @@ A terminal base logger for displaying usb device logs service
 Usage 
 ------
 
-open your terminal and run $ bash Main2.sh
-follow the intructions after the execution
+open your terminal and run 
+$ bash Main2.sh
+
 
 Features
-==========
+---------
 
 1. find the usb devices connected at a partcular specified data
 2. view the activity log of particular USB device
@@ -21,8 +22,9 @@ Features
 
 
 TODO
-======
+------
 Add more features
 
 
 FORK and enjoy
+---------------
