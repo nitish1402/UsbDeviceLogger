@@ -5,6 +5,7 @@ A terminal base logger for displaying usb device logs service
 
 
 Usage 
+------
 
 open your terminal and run $ bash Main2.sh
 follow the intructions after the execution
