@@ -260,5 +260,5 @@ do
 done
 
 else 
- echo "Your usernaem is not verified please insert correct usrename "
+ echo "Your username is not verified please insert correct username "
 fi
