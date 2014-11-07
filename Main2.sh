@@ -199,7 +199,7 @@ do
 
     6)
          #python devicetracker.py
-         echo "Information will be displayed as soon as ypu will plug a usb device"
+         echo "Information will be displayed as soon as you will plug a usb device"
          python devicetracker.py
 
     ;;
