@@ -199,7 +199,7 @@ do
 
     6)
          #python devicetracker.py
-         echo "Information will be displayed as soon as ypu will plug a usb device"
+         echo "Information will be displayed as soon as you will plug a usb device"
          python devicetracker.py
 
     ;;
@@ -260,5 +260,5 @@ do
 done
 
 else 
- echo "Your usernaem is not verified please insert correct usrename "
+ echo "Your username is not verified please insert correct username "
 fi
